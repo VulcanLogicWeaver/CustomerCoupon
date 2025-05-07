@@ -2,7 +2,10 @@
 Practical Application Assignment 1
 This assignment is to analyze those who accepted and rejected coupons.
 
-The data is provide in a file labeled "coupons" as a csv file, placed in the 'data' directory [https://github.com/VulcanLogicWeaver/CustomerCoupon/blob/main/data/coupons.csv] The code to analyze all the different scenarios is in the jupyter notebook "Customer Coupon Project.ipynb" in the main directory [https://github.com/VulcanLogicWeaver/CustomerCoupon/blob/main/prompt.ipynb]
+The data is provide in a file labeled "coupons" as a csv file, placed in the 'data' directory 
+[https://github.com/VulcanLogicWeaver/CustomerCoupon/blob/main/data/coupons.csv] 
+The code to analyze all the different scenarios is in the jupyter notebook "Customer Coupon Project.ipynb" in the main directory 
+[https://github.com/VulcanLogicWeaver/CustomerCoupon/blob/main/Customer%20Coupon%20Project.ipynb]
 
 Data overview:
 - The data set has good about of data, about 12684 rows.
