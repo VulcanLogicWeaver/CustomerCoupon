@@ -19,4 +19,5 @@ Data Analysis:
 -   Frequent Bar visitors [more than once a week with adult passanger and not farming, fishing, or forestry industry: similar results as above: frequent visisotrs as twice as likely to accept coupon
 -   Frequent Bar visitors with multiple criteria
 Overall, it seems that frequent visitors are twice or more likely to accept coupons than less frequent visitor
+As part of independent investigation, built a (n x n) dataframe to visualize the coupon acceptance over vaious income ranges and between Male and Female groups.  There are certainly some interesting patterns, the middle income range ($37,500 - $49,999) Female category seem to have accepted the most coupons and lowest income range (less than $12,500) Female category seem have accepted the least amount of coupons.
 
